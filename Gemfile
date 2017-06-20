@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'sorcery'
 gem 'slim-rails'
+gem 'html2slim'
 gem 'bootstrap-sass'
 
 group :development, :test do
